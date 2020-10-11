@@ -1,7 +1,22 @@
-.navbar{
-    color: pink;
+.navbar-brand{
+    color: green;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 33px;
+    margin-right: 800px;
+    margin-left: 25px;
 }
 
-H1{
-    color: pink;
+.navbar-brand:hover{
+    color: purple;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 33px;
+}
+
+.nav-link{
+    color: grey;
+
+}
+
+.nav-link:hover{
+    color: red;
 }
