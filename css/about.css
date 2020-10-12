@@ -1,22 +1,57 @@
 .navbar-brand{
-    color: green;
+    color: #617073;
     font-family: 'Quicksand', sans-serif;
     font-size: 33px;
-    margin-right: 370px;
+    margin-right: 400px;
     margin-left: 25px;
-}
-
-.navbar-brand:hover{
-    color: purple;
-    font-family: 'Quicksand', sans-serif;
-    font-size: 33px;
+    margin-top: -70px;
 }
 
 .nav-link{
-    color: grey;
-
+    color: #617073;
+    margin-top: -45px;
 }
 
 .nav-link:hover{
-    color: red;
+    color: #AABD8C;
 }
+
+.ethan{
+    height: 500px;
+    width: 400px;
+    float: right;
+    margin-right: 100px;
+    border-radius: 12px;
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif;
+    color: #7A93AC;
+    margin-left: 100px;
+    margin-top: -20px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #AABD8C;
+    color: #171A21;
+    text-align: center;
+    height: 60px;
+ }
+
+ p{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 15px;
+ }
+
+ .fab{
+     color: #171A21;
+     margin-right: 10px;
+ }
+
+ .btn{
+     margin-right: -25px;
+ }

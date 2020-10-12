@@ -1,9 +1,10 @@
 .navbar-brand{
-    color: green;
+    color: #617073;
     font-family: 'Quicksand', sans-serif;
     font-size: 33px;
-    margin-right: 370px;
+    margin-right: 400px;
     margin-left: 25px;
+    margin-top: -70px;
 }
 
 .navbar-brand:hover{
@@ -13,10 +14,14 @@
 }
 
 .nav-link{
-    color: grey;
-
+    color: #617073;
+    margin-top: -45px;
 }
 
 .nav-link:hover{
-    color: red;
+    color: #AABD8C;
+}
+
+.fas{
+    color: #617073;
 }
