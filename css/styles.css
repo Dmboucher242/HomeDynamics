@@ -1,0 +1,28 @@
+.navbar-brand{
+    color: #617073;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 33px;
+    margin-right: 400px;
+    margin-left: 25px;
+    margin-top: -70px;
+}
+
+.navbar-brand:hover{
+    color: purple;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 33px;
+}
+
+.nav-link{
+    color: #7A93AC;
+    margin-top: -45px;
+
+}
+
+.nav-link:hover{
+    color: #AABD8C;
+}
+
+.fas{
+    color: #617073;
+}
