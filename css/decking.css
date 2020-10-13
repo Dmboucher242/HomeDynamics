@@ -61,6 +61,7 @@
      border-color: #AABD8C;
      margin-right: 40px;
      margin-top: -150px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 
  .after{
@@ -73,6 +74,7 @@
      border-color: #AABD8C;
      margin-right: 40px;
      margin-top: -150px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 
  .h1{
@@ -107,6 +109,7 @@
     border: 5px solid;
     border-color: #AABD8C;
     margin-left: 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 
  .stained2{
@@ -118,6 +121,7 @@
     border: 5px solid;
     border-color: #AABD8C;
     margin-left: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 
  .deckbuild{
@@ -136,6 +140,7 @@
     border-color: #AABD8C;
     margin-right: 40px;
     margin-top: -170px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 
  .build2{
@@ -148,9 +153,28 @@
     margin-right: 40px;
     margin-top: -170px;
     margin-bottom: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
  }
 
  .summary3{
     width: 650px;
     margin-left: 90px;
  }
+
+.hr1{
+    width: 650px;
+    margin-left: 90px;
+    background-color: #7A93AC;
+}
+
+.hr2{
+    width: 650px;
+    margin-left: 750px;
+    background-color: #7A93AC; 
+}
+
+.hr3{
+    width: 650px;
+    margin-left: 90px;
+    background-color: #7A93AC;
+}
