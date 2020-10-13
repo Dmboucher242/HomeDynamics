@@ -25,12 +25,12 @@
 .footer {
     position: fixed;
     left: 0;
-    bottom: 0;
     width: 100%;
     background-color: #AABD8C;
     color: #171A21;
     text-align: center;
     height: 60px;
+    bottom: 0;
  }
 
  p{
@@ -135,7 +135,7 @@
     border: 5px solid;
     border-color: #AABD8C;
     margin-right: 40px;
-    margin-top: -120px;
+    margin-top: -170px;
  }
 
  .build2{
@@ -146,7 +146,8 @@
     border: 5px solid;
     border-color: #AABD8C;
     margin-right: 40px;
-    margin-top: -120px;
+    margin-top: -170px;
+    margin-bottom: 100px;
  }
 
  .summary3{
